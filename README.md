@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on some internships 
 - 💬 Ask me about front end development and DSA
 - 📫 How to reach me: www.linkedin.com/in/manmeet-singh-a8681b204
-- ⚡ Fun fact: Currently studying at TIET
+- ⚡ Fun fact: Studied at TIET
