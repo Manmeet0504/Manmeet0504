@@ -8,7 +8,7 @@ Ex-MTS-1 @ Exotel | Full-Stack Software Engineer
 
 ## 👨‍💻 About Me
 
-- 🎓 Master of Applied Computing student at **Wilfrid Laurier University (Canada)**
+- 🎓 Master of Applied Computing student at **Wilfrid Laurier University**
 - 💼 Former **Software Development Engineer (MTS-1)** at **Exotel**
 - 🔬 Research experience with **Samsung R&D (PRISM ’22)**
 - 🧠 Strong foundation in **Data Structures, APIs, and System Design**
