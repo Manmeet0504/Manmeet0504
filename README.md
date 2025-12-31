@@ -9,7 +9,7 @@ Ex–Member of Technical Staff (MTS-1) @ Exotel
 ## 👨‍💻 About Me
 
 I’m a software engineer with hands-on experience building **enterprise-scale backend systems and full-stack applications**.  
-I enjoy working close to the **business logic**—designing APIs, improving performance, and solving real production issues.
+I enjoy working close to the **business logic**, designing APIs, improving performance, and solving real production issues.
 
 - 🎓 Master’s student in **Applied Computing (Co-op)** at **Wilfrid Laurier University**  
 - 💼 Previously worked as **MTS-1 at Exotel**, contributing to CRM and communication platforms  
