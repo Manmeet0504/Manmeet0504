@@ -32,7 +32,7 @@ I enjoy working close to the **business logic**, designing APIs, improving perfo
 
 ## 💼 Professional Experience
 
-### Member of Technical Staff – 1 (Software Engineer)  
+### Member of Technical Staff - 1
 **Exotel Techcom Pvt. Ltd.**  
 *Jul 2024 – Jul 2025*
 
@@ -116,7 +116,6 @@ A multi-level puzzle game focused on interactive gameplay and session tracking.
 
 - **LinkedIn:** https://www.linkedin.com/in/manmeet-singh-a8681b204  
 - **Portfolio:** https://manmeet0504.netlify.app  
-- **LeetCode:** https://leetcode.com/Manmeet_007  
 
 ---
 
