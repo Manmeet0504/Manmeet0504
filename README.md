@@ -12,7 +12,7 @@ Ex-MTS-1 @ Exotel | Full-Stack Software Engineer
 - 💼 Former **Software Development Engineer (MTS-1)** at **Exotel**
 - 🔬 Research experience with **Samsung R&D (PRISM ’22)**
 - 🧠 Strong foundation in **Data Structures, APIs, and System Design**
-- 🚀 Actively seeking **software engineering / full-stack roles** (backend-focused)
+- 🚀 Actively seeking **software engineering / full-stack roles**
 
 ---
 
