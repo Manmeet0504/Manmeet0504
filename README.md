@@ -1,99 +1,123 @@
 <h1 align="center">Hi, I'm Manmeet Singh 👋</h1>
 <h3 align="center">
 Master of Applied Computing (Co-op) @ Wilfrid Laurier University <br/>
-Former Member of Technical Staff (MTS-1) @ Exotel
+Ex–Member of Technical Staff (MTS-1) @ Exotel
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Master’s student in **Applied Computing (Co-op)** at **Wilfrid Laurier University** 
-- 💼 Former **Software Development Engineer (MTS-1)** at **Exotel** (Enterprise SaaS & Communication Systems)  
-- 🔬 Research experience at **Samsung R&D (PRISM ’22)**  
-- 🧠 Strong foundation in **Data Structures, Backend APIs, Microservices, and System Design**  
-- 🚀 Actively seeking **Software Engineering / Full-Stack / Backend roles** 
+I’m a software engineer with hands-on experience building **enterprise-scale backend systems and full-stack applications**.  
+I enjoy working close to the **business logic**—designing APIs, improving performance, and solving real production issues.
+
+- 🎓 Master’s student in **Applied Computing (Co-op)** at **Wilfrid Laurier University**  
+- 💼 Previously worked as **MTS-1 at Exotel**, contributing to CRM and communication platforms  
+- 🔬 Research experience at **Samsung R&D (PRISM ’22)** in applied machine learning  
+- 🧠 Strong interest in **backend engineering, system design, and scalable architectures**  
+- 🎯 Currently looking for **Software Engineering / Backend / Full-Stack roles**  
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-**Languages:** Java (8/11/17), Python, JavaScript, TypeScript, C++, SQL  
+**Languages:** Java, Python, JavaScript, TypeScript, C++, SQL  
 **Backend:** Spring Boot, Node.js, REST APIs, Microservices  
-**Frontend:** React.js, Redux, Tailwind CSS  
+**Frontend:** React, Redux, Tailwind CSS  
 **Databases:** PostgreSQL, MySQL, MongoDB  
-**Cloud & DevOps:** AWS (EC2, S3), Docker, Kubernetes, OpenShift, CI/CD (Jenkins)  
-**Tools:** Git, IntelliJ IDEA, VS Code, Postman, Swagger, Jira, Confluence  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, OpenShift, CI/CD  
+**Tools:** Git, IntelliJ, VS Code, Postman, Swagger, Jira, Confluence  
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### Member of Technical Staff – 1 (Software Engineer)  
-**Exotel Techcom Pvt. Ltd.** | Jul 2024 – Jul 2025  
-*Java, Spring Boot, React, PostgreSQL*
+**Exotel Techcom Pvt. Ltd.**  
+*Jul 2024 – Jul 2025*
 
-- Engineered and optimized **Call Routing APIs** across CMS and CFS microservices, enabling partial updates and reducing redundant payloads in the CRM ecosystem  
-- Developed **Python automation scripts** to onboard and map DIDs using Exotel Platform APIs, reducing manual configuration time by **~80%**  
-- Built **Live Monitoring and Custom Stats APIs** in the Data Engine microservice using dynamic SQL builders for real-time agent and campaign metrics  
-- Designed and implemented **React-based CRM UI components** with API-driven data visualization, pagination, and caching for improved performance  
+At Exotel, I worked on **production-grade microservices and CRM systems** used by large-scale customers.
+
+- Designed and optimized **Call Routing APIs**, enabling partial updates and reducing unnecessary payload transfer  
+- Built **Python-based automation** for DID onboarding and routing, significantly reducing manual operational effort  
+- Developed **real-time monitoring and analytics APIs** for agent and campaign performance  
+- Implemented **React-based CRM UI components** with pagination, caching, and API-driven visualizations  
+- Regularly debugged **production issues**, collaborating across teams to deliver stable releases  
 
 ---
 
 ### Software Engineering Intern  
-**Exotel Techcom Pvt. Ltd.** | Jan 2024 – Jul 2024  
-*React, TypeScript, Redux*
+**Exotel Techcom Pvt. Ltd.**  
+*Jan 2024 – Jul 2024*
 
-- Integrated Omni Toolbar with **Microsoft Dynamics CRM and Salesforce**, enabling customer search, contact retrieval, and click-to-dial functionality  
-- Implemented **Toolbar SDK features** including UI event handling, activity logging, chat events, and real-time voice/WhatsApp communication  
-- Collaborated across frontend and backend teams to improve real-time updates and toolbar responsiveness  
-
----
-
-### Research Intern – Device Classification  
-**Samsung R&D (PRISM ’22)** | Sep 2022 – Jun 2023  
-
-- Designed and trained a **CNN-based device classification model** achieving **90%+ accuracy**  
-- Built automated data preprocessing pipelines to standardize datasets and improve training efficiency  
-- Tuned hyperparameters and evaluated performance metrics for Vision AI deployment  
+- Integrated Omni Toolbar with **Salesforce and Microsoft Dynamics CRM**  
+- Implemented **Click-to-Dial, activity logging, and real-time communication features**  
+- Worked closely with backend teams to ensure reliable API synchronization  
 
 ---
 
-## 🚀 Projects
+### Research Intern  
+**Samsung R&D (PRISM ’22)**  
+*Sep 2022 – Jun 2023*
 
-### 🧾 MyTrackr – Smart Receipt Scanner  
-*Java, Firebase, ML Kit, Gemini API*  
-- Built an automated receipt processing pipeline using **ML Kit OCR + Gemini API** to extract structured transaction data  
-- Implemented chronological expense tracking with calendar-based categorization and budget notifications  
-- Developed interactive analytics dashboards using **MPAndroidChart** with daily, monthly, and yearly filters  
+- Built a **CNN-based device classification system** using Python  
+- Worked on data preprocessing, model evaluation, and experimentation  
+- Gained experience translating research ideas into working prototypes  
+
+---
+
+## 🚀 Selected Projects
+
+### 🧾 MyTrackr – Smart Receipt Scanner
+*Java · Firebase · ML Kit · Gemini API*
+
+A mobile application that automatically extracts and categorizes expenses from scanned receipts.
+
+- OCR-based receipt parsing with structured JSON output  
+- Calendar-based expense tracking and budget alerts  
+- Interactive analytics with daily, monthly, and yearly views  
+
 🔗 https://github.com/Manmeet0504/MyTrackr-Smart-Receipt-Scanner
 
 ---
 
-### 🍎 RipenTrack – Fruit Ripening Stage Detector  
-*ESP32, AS7341, Python, Flask, ML*  
-- Built a **5,200-sample spectral dataset** using controlled hardware calibration and labeling  
-- Applied **PCA + ensemble ML models (KNN, SVM, Naive Bayes)** achieving **94.38% accuracy**  
-- Exposed predictions via a **Flask REST API** with JSON responses and visualization  
+### 🍎 RipenTrack – Fruit Ripening Stage Detector
+*ESP32 · Python · Machine Learning · Flask*
+
+An end-to-end ML system combining hardware, data collection, and model deployment.
+
+- Built a **5k+ sample spectral dataset** using calibrated sensors  
+- Achieved **94%+ accuracy** using ensemble ML techniques  
+- Exposed predictions through a REST API  
+
 🔗 https://github.com/Manmeet0504/RipenTrack
 
 ---
 
-### 🏴‍☠️ Treasure Hunt – Pirate’s Adventure  
-*HTML, CSS, JavaScript, Node.js*  
-- Developed a multi-level interactive puzzle game with session tracking and progress management  
-- Built a Node.js backend to manage gameplay state and challenges  
+### 🏴‍☠️ Treasure Hunt – Pirate’s Adventure
+*HTML · CSS · JavaScript · Node.js*
+
+A multi-level puzzle game focused on interactive gameplay and session tracking.
+
 🔗 https://github.com/Manmeet0504/Treasure_Hunt
 
 ---
 
-## 📫 Connect With Me
+## 🧠 What I Care About
+
+- Writing **clean, maintainable backend code**
+- Designing **APIs that scale**
+- Understanding **why systems fail**, not just how to fix them
+- Continuous learning through real-world problems
+
+---
+
+## 📫 Let’s Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/manmeet-singh-a8681b204  
 - **Portfolio:** https://manmeet0504.netlify.app  
-- **GitHub:** https://github.com/Manmeet0504  
 - **LeetCode:** https://leetcode.com/Manmeet_007  
 
 ---
 
-⭐ If my work interests you, feel free to explore my repositories or reach out for opportunities and collaborations.
+⭐ Thanks for stopping by! Feel free to explore my repositories or reach out.
